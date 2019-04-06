@@ -44,11 +44,12 @@ header img{
   background-color: rgba(255,255,255,0.5);
 }
 
-/* top-contents */
 .main{
-  width: 100%;
+  width: 120%;
   margin: 0 auto;
 }
+
+/* top-contents */
 .top-contents{
   background-image:url(https://prog-8.com/images/html/advanced/top.png);
   background-size: cover;
