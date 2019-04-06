@@ -45,6 +45,10 @@ header img{
 }
 
 /* top-contents */
+.main{
+  width: 1200px;
+  margin: 0 auto;
+}
 .top-contents{
   background-image:url(https://prog-8.com/images/html/advanced/top.png);
   background-size: cover;
