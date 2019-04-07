@@ -67,10 +67,10 @@ header{
   background-size: cover;
   padding: 180px 0 100px 0;
   color: white;
-  text-align: center;
 }
 .top-inner{
   width: 1170px;
+}
 .top-inner h1{
   font-size: 45px;
   letter-spacing: 5px;
