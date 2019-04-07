@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 body {
   font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+　-webkit-text-size-adjust: 100%;
 }
 #wrap{
 	width: 100%;
