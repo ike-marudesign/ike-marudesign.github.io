@@ -71,6 +71,7 @@ header{
 }
 .top-inner{
   width: 1170px;
+  margin: 0 auto;
 }
 .top-inner h1{
   font-size: 45px;
